@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Ancient History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Logic"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6d4cc94a-1cc6-184f-cb36-2322ce10b07a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Ancient Greek Philosophy and Mathematics",
+  "course_description": "This course explores the relationship between ancient Greek philosophy and mathematics. We investigate how ideas of definition, reason, argument and proof, rationality / irrationality, number, quality and quantity, truth, and even the idea of an idea were shaped by the interplay of philosophic and mathematical inquiry. The course examines how discovery of the incommensurability of magnitudes challenged the Greek presumption that the cosmos is fully understandable. Students explore the influence of mathematics on ancient Greek ethical theories. We read such authors as: Euclid, Plato, Aristotle, Nicomachus, Theon of Smyrna, Bacon, Descartes, Dedekind, and Newton.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.113",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
